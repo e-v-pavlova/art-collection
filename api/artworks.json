@@ -1,0 +1,31 @@
+[
+    {
+        "src": "./src/assets/artworks/na-severe-dikom-shishkin.jpg",
+        "author": "Шишкин",
+        "title": "На севере диком",
+        "year": "1891",
+        "tags": [
+            "oil",
+            "tree",
+            "winter",
+            "landscape",
+            "nature",
+            "vertical"
+        ]
+    },
+    {
+        "src": "./src/assets/artworks/Sokolniki_autumn-Levitan.jpg",
+        "author": "Левитан",
+        "title": "Осенний день, Сокольники",
+        "year": "1879",
+        "tags": [
+            "oil",
+            "tree",
+            "autumn",
+            "yellow",
+            "landscape",
+            "nature",
+            "vertical"
+        ]
+    }
+]
