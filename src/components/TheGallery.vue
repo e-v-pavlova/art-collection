@@ -22,11 +22,22 @@ export default {
 </script>
 
 <template>
-    <ArtWork
-      v-for="artWork in artWorks"
-      :title="artWork.title"
-      :author="artWork.author"
-      :year="artWork.year"
-      :src="artWork.src"
-    ></ArtWork>
+    <div class="wrapper">
+        <ArtWork
+            v-for="artWork in artWorks"
+            :title="artWork.title"
+            :author="artWork.author"
+            :year="artWork.year"
+            :src="artWork.src"
+        ></ArtWork>
+    </div>
 </template>
+
+<style scoped>
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-end;
+}
+</style>
