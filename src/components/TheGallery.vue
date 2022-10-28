@@ -29,6 +29,7 @@ export default {
             :author="artWork.author"
             :year="artWork.year"
             :src="artWork.src"
+            :layout="artWork.layout"
         ></ArtWork>
     </div>
 </template>

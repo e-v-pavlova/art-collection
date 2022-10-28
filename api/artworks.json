@@ -4,13 +4,13 @@
         "author": "Шишкин",
         "title": "На севере диком",
         "year": "1891",
+        "layout": "vertical",
         "tags": [
             "oil",
             "tree",
             "winter",
             "landscape",
-            "nature",
-            "vertical"
+            "nature"
         ]
     },
     {
@@ -18,14 +18,14 @@
         "author": "Левитан",
         "title": "Осенний день, Сокольники",
         "year": "1879",
+        "layout": "vertical",
         "tags": [
             "oil",
             "tree",
             "autumn",
             "yellow",
             "landscape",
-            "nature",
-            "vertical"
+            "nature"
         ]
     },
     {
@@ -33,14 +33,14 @@
         "author": "Claude Monet",
         "title": "The road La Corniche in Monaco",
         "year": "1884",
+        "layout": "horizontal",
         "tags": [
             "oil",
             "sea",
             "summer",
             "blue",
             "landscape",
-            "nature",
-            "horisontal"
+            "nature"
         ]
     },
     {
@@ -48,13 +48,13 @@
         "author": "Claude Monet",
         "title": "Les rochers de Belle-Isle",
         "year": "1886",
+        "layout": "horizontal",
         "tags": [
             "oil",
             "sea",
             "summer",
             "landscape",
-            "nature",
-            "horisontal"
+            "nature"
         ]
     },
     {
@@ -62,6 +62,7 @@
         "author": "Caspar David Friedrich",
         "title": "Monk by the Sea",
         "year": "1808",
+        "layout": "horizontal",
         "tags": [
             "oil",
             "sea",
@@ -69,8 +70,7 @@
             "person",
             "static",
             "landscape",
-            "nature",
-            "horisontal"
+            "nature"
         ]
     }
 ]
