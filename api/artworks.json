@@ -27,5 +27,50 @@
             "nature",
             "vertical"
         ]
+    },
+    {
+        "src": "./src/assets/artworks/the-road-la-corniche-in-monaco-claude-monet.jpg",
+        "author": "Claude Monet",
+        "title": "The road La Corniche in Monaco",
+        "year": "1884",
+        "tags": [
+            "oil",
+            "sea",
+            "summer",
+            "blue",
+            "landscape",
+            "nature",
+            "horisontal"
+        ]
+    },
+    {
+        "src": "./src/assets/artworks/les-rochers-de-belle-Isle-claude-monet.jpg",
+        "author": "Claude Monet",
+        "title": "Les rochers de Belle-Isle",
+        "year": "1886",
+        "tags": [
+            "oil",
+            "sea",
+            "summer",
+            "landscape",
+            "nature",
+            "horisontal"
+        ]
+    },
+    {
+        "src": "./src/assets/artworks/monk-by-the-sea-caspar-david-friedrich.jpg",
+        "author": "Caspar David Friedrich",
+        "title": "Monk by the Sea",
+        "year": "1808",
+        "tags": [
+            "oil",
+            "sea",
+            "sky",
+            "person",
+            "static",
+            "landscape",
+            "nature",
+            "horisontal"
+        ]
     }
 ]
